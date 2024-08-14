@@ -1,0 +1,164 @@
+live_config_reload = true
+
+[colors.normal]
+black = "#121212"
+blue = "#2b4fff"
+cyan = "#28b9ff"
+green = "#7129ff"
+magenta = "#2883ff"
+red = "#a52aff"
+white = "#f1f1f1"
+yellow = "#3d2aff"
+
+[colors.primary]
+background = "#000000"
+bright_foreground = "#ff0000"
+dim_foreground = "#ff0000"
+foreground = "#ffffff"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "SauceCodePro Nerd Font"
+style = "Regular"
+
+[[keyboard.bindings]]
+chars = "\u0002\u001B[C"
+key = "Right"
+mods = "Super"
+
+[[keyboard.bindings]]
+chars = "\u0002\u001B[A"
+key = "Up"
+mods = "Super"
+
+[[keyboard.bindings]]
+chars = "\u0002\u001B[B"
+key = "Down"
+mods = "Super"
+
+[[keyboard.bindings]]
+chars = "\u0002\u001B[D"
+key = "Left"
+mods = "Super"
+
+[[keyboard.bindings]]
+chars = "\u0002,"
+key = "Comma"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002s"
+key = "K"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00021"
+key = "Key1"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00022"
+key = "Key2"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00023"
+key = "Key3"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00024"
+key = "Key4"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00025"
+key = "Key5"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00026"
+key = "Key6"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00027"
+key = "Key7"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00028"
+key = "Key8"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u00029"
+key = "Key9"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002L"
+key = "L"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002["
+key = "LBracket"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002p"
+key = "LBracket"
+mods = "Command|Shift"
+
+[[keyboard.bindings]]
+chars = "\u0002%"
+key = "N"
+mods = "Command|Shift"
+
+[[keyboard.bindings]]
+chars = "\u0002\""
+key = "N"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002d"
+key = "Q"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002n"
+key = "RBracket"
+mods = "Command|Shift"
+
+[[keyboard.bindings]]
+chars = """
+\u001B:w
+"""
+key = "S"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002c"
+key = "T"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002!"
+key = "T"
+mods = "Command|Shift"
+
+[[keyboard.bindings]]
+chars = "\u0002x"
+key = "W"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "\u0002z"
+key = "Z"
+mods = "Command"
+
+[window]
+opacity = 1.0
